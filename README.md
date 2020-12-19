@@ -49,5 +49,5 @@
 
 ## 技术架构
 
-bandit-recom技术架构遵循经典的工业级深度学习推荐系统架构，包括了离线数据处理、模型训练、近线的流处理、线上模型服务、前端推荐结果显示等多个模块：
+bandit-recom技术架构：
 ![alt text](sources/recom-serving.jpg)
