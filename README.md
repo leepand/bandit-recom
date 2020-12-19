@@ -1,3 +1,11 @@
+
+<p align="center">
+  <a href="https://algolink.com" target="_blank">
+    <img src="sources/main.svg" alt="Bandit ML" height="140">
+  </a>
+</p>
+
+
 # bandit-recom
 通过AI驱动的推荐，提高客户满意度和消费。适用于您的主页、产品详情、电子邮件营销活动等。帮助企业快速搭建推荐系统，为用户提供千人千面的个性化体验，解决信息过载与用户注意力有限之间的矛盾，将每一次曝光价值最大化
 
