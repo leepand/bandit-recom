@@ -5,7 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
-
+AdminUI/
+back_server/
 # Distribution / packaging
 .Python
 build/
