@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://algolink.com" target="_blank">
-    <img src="sources/main.svg" alt="Bandit ML" height="140">
+    <img src="sources/recom.jpg" alt="Bandit ML" height="140">
   </a>
 </p>
 
