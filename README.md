@@ -1,12 +1,18 @@
-
 <div align="center">
-  <a href="https://algolink.com" target="_blank">
-    <img src="sources/recom.jpg" alt="Bandit ML" height="140">
-  </a>
-</div>
+
+<img src="sources/recom.jpg">
+
+---
+
+<p align="center">
+  <a href="https://zenml.io">ZenML.io</a> •
+  <a href="https://docs.zenml.io">docs.ZenML.io</a> •
+  <a href="#quickstart">Quickstart</a> •
+  <a href="https://zenml.io/slack-invite/">Join Slack</a>
+</p>
 
 [![PyPI version](https://badge.fury.io/py/bandit-recom.svg)](https://badge.fury.io/py/bandit-recom) [![](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
-
+</div>
 # bandit-recom
 通过AI驱动的推荐，提高客户满意度和消费。适用于您的主页、产品详情、电子邮件营销活动等。帮助企业快速搭建推荐系统，为用户提供千人千面的个性化体验，解决信息过载与用户注意力有限之间的矛盾，将每一次曝光价值最大化
 
