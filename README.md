@@ -5,10 +5,10 @@
 ---
 
 <p align="center">
-  <a href="https://zenml.io">ZenML.io</a> •
-  <a href="https://docs.zenml.io">docs.ZenML.io</a> •
+  <a href="https://algolink.cloud">algolink.cloud</a> •
+  <a href="https://docs.algolink.cloud">docs.algolink.cloud</a> •
   <a href="#quickstart">Quickstart</a> •
-  <a href="https://zenml.io/slack-invite/">Join Slack</a>
+  <a href="https://algolink.cloud/slack-invite/">Join Slack</a>
 </p>
 
 [![PyPI version](https://badge.fury.io/py/bandit-recom.svg)](https://badge.fury.io/py/bandit-recom) [![](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
