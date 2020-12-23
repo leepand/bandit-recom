@@ -1,9 +1,9 @@
 
-<p align="center">
+<div align="center">
   <a href="https://algolink.com" target="_blank">
     <img src="sources/recom.jpg" alt="Bandit ML" height="140">
   </a>
-</p>
+</div>
 
 [![PyPI version](https://badge.fury.io/py/bandit-recom.svg)](https://badge.fury.io/py/bandit-recom) [![](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
 
