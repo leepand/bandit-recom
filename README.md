@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="sources/ml-gif.gif">
+<img src="sources/recom.png">
 
 ---
 
